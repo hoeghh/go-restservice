@@ -7,3 +7,5 @@ Run the build.sh file to build the executable, and the run it. You can choose th
 export REST_PORT=8001
 ./main
 ```
+
+This repo is made from the example shown here : Inspired by this blogpost https://appliedgo.net/rest/
