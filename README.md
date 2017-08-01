@@ -8,4 +8,4 @@ export REST_PORT=8001
 ./main
 ```
 
-This repo is made from the example shown here : Inspired by this blogpost https://appliedgo.net/rest/
+This repo is made from the example shown here : https://appliedgo.net/rest/
